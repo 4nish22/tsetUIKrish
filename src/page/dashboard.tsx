@@ -41,7 +41,7 @@ const channelsData = [
       { factor: "Redis Status", status: "Issue", details: "Latency: 12ms" },
       { factor: "CPU Status", status: "OK", details: "Usage: 45%" },
       { factor: "Memory Status", status: "OK", details: "Usage: 60%" },
-      { factor: "Node Status", status: "OK", details: "All nodes healthy" },
+      { factor: "Node Status", status: "Issue", details: "All nodes healthy" },
       { factor: "Source Status", status: "OK", details: "Source URL responding" },
       { factor: "Total Active Viewers", status: "OK", details: "1200 viewers" },
     ],
